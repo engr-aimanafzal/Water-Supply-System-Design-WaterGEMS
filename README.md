@@ -33,25 +33,27 @@ Two design alternatives were analyzed to determine the most cost-effective and r
 
 ### 1. Study Area
 **Muslim Nagar Housing Society Layout**
-![Society Map](./society_map.png)
+<img width="1102" height="844" alt="society_map" src="https://github.com/user-attachments/assets/6318b6a6-8a01-4a7f-95e3-4e02517c704f" />
 
 ### 2. Hydraulic Modeling
 **WaterGEMS Network Layout (Color-coded by Pipe Diameter)**
-![Network Layout](./network_layout.png)
+<img width="1244" height="885" alt="network_layout" src="https://github.com/user-attachments/assets/4bd35748-bf72-4a3d-985f-d8132c384012" />
 
 **Pressure Pipe Inventory**
-![Pipe Inventory](./pipe_inventory.png)
+<img width="870" height="211" alt="pipe_inventory" src="https://github.com/user-attachments/assets/82dd2d67-14db-494d-b394-9c3c6fe83db7" />
 
 ### 3. Pump Curves
 **Direct Pumping Pump Curve (Design Flow: 212 gpm)**
-![Pump Curve Direct](./pump_curve_direct.png)
+<img width="669" height="481" alt="pump_curve_direct" src="https://github.com/user-attachments/assets/d0e79f0f-5f1a-432f-a6f8-b4fceb968d67" />
 
 **Pumping with OHR Pump Curve (Design Flow: 141 gpm)**
-![Pump Curve OHR](./pump_curve_ohr.png)
+<img width="858" height="775" alt="pump_curve_ohr" src="https://github.com/user-attachments/assets/8f088814-1b98-470b-ada3-7d6c9d31b5b1" />
+
 
 ### 4. Economic Analysis
 **Final Cost Comparison (Monthly Household Bills)**
-![Cost Comparison](./cost_comparison.png)
+<img width="1070" height="131" alt="cost_comparison" src="https://github.com/user-attachments/assets/23411cba-58f4-424f-ba9f-abb86396761c" />
+
 
 ---
 
